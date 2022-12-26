@@ -1,0 +1,15 @@
+{
+    "name": "commercelayer-react-checkout",
+    "description": "The Commerce Layer checkout application (React) provides you with a PCI-compliant, PSD2-compliant, and production-ready checkout flow powered by Commerce Layer APIs.",
+    "repository": "https://github.com/commercelayer/commercelayer-react-checkout",
+    "logo": "https://do6sydhp1s299.cloudfront.net/assets/images/logo.svg",
+    "keywords": [
+        "commerce layer",
+        "commercelayer",
+        "ecommerce",
+        "checkout",
+        "reactjs",
+        "nextjs",
+        "nodejs"
+    ]
+}
